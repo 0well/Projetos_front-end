@@ -1,0 +1,1 @@
+# Este projeto tem como objetivo, arquivar meus projetos de desenvolvimento web utilizando principalmente a linguagem python e flask, também utilizando html, css para realizar as estruturas e estilos da pagina.
